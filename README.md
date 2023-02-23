@@ -1,6 +1,5 @@
 # Generate Your Own Polygon ID Claim Website in 5 minutes
 
-[Self-service claim issuer template](https://generate-frontend-polygon-id-issuer.vercel.app/) by Steph [oceans404](https://twitter.com/0ceans404)
 
 Tired of manually creating and sending Polygon ID claim links one by one? Here's a claim site I created for my Polygon ID [AboutMe schema](https://github.com/oceans404/node-polygon-id-platform-apis/blob/main/yourData.js#L7-L29) so that users can self-service claim. It's totally reusable code. All you have to do is modify the email, password, and schema id in the .env file, then deploy your personalized site to Vercel.
 ![site](https://user-images.githubusercontent.com/91382964/205103971-e4ef3bf7-78ce-4a7e-a953-f50a8aebba4b.gif)
